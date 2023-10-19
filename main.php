@@ -7,6 +7,10 @@
 </head>
 <body>
     <h1>Ahoj</h1>
-    
+    <?php
+        $penize = 56;
+        $prize = 54;
+        echo($prize);
+    ?>
 </body>
 </html>
