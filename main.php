@@ -6,6 +6,6 @@
     <title>PlaceReviews</title>
 </head>
 <body>
-    <h1>Ahoj</h1>
+    <h1>Aj</h1>
 </body>
 </html>
