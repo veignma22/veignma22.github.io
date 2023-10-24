@@ -3,10 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Place Reviews</title>
+    <title>Galerie</title>
 </head>
 <body>
-    <h1>Place Reviews</h1>
-    <a href="index.php">fds</a>
+
+    <h1>Galerie</h1>
+
+    <a href="favimg.php">Oblíbené obrázky</a>
+
+    <h2>Přidat obrázek:</h2>
+
+    <form action="action/action.php" method="post">
+		<label>Název: </label>
+		<input type="text" name="name">
+		<label>URL adresa: </label>
+		<input type="text" name="url">
+		<input type="submit" name="submit" value="Uložit">
+	</form>
+    
 </body>
 </html>
